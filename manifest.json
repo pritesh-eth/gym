@@ -1,0 +1,17 @@
+{
+    "name": "PWA",
+    "short_name": "PWA",
+    "theme_color": "#ffcbe4",
+    "background_color": "#fa99ca",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": ".",
+    "description": "PWA",
+    "orientation": "any",
+    "icons": [
+        {
+            "src": "gym.png",
+            "sizes": "512x512"
+        }
+    ]
+}
